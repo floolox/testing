@@ -1,0 +1,18 @@
+Hello World. Testing testing!
+Another day, another line.
+If the array picks up this line,
+then is it a pickup line?
+
+//echo $_SERVER['SERVER_NAME'];
+//echo $_SERVER['PHP_SELF'];
+//echo $_SERVER['PATH_INFO'];
+
+
+/*
+$path_parts = pathinfo('E:\Multimedia\Song\Foster The People - Pumped up Kicks.mp3');
+
+echo "esktensi file    :" .$path_parts['extension']."<br>";
+echo "nama file        :" .$path_parts['dirname']  ."<br>";
+echo "basefile         :" .$path_parts['basename'] ."<br>";
+echo  "nama file       :" .$path_parts['filename'] ."<br>";  
+*/
